@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "aws-sdk": "^2.409.0",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
     "gatsby": "^2.1.16",
     "gatsby-image": "^2.0.29",
     "gatsby-plugin-manifest": "^2.0.18",
@@ -13,10 +16,16 @@
     "gatsby-plugin-sharp": "^2.0.21",
     "gatsby-source-filesystem": "^2.0.22",
     "gatsby-transformer-sharp": "^2.1.14",
+    "module": "^1.2.5",
+    "net": "^1.0.2",
+    "new": "^0.1.1",
+    "newrelic": "^5.5.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "relic": "^0.2.0",
+    "tls": "0.0.1"
   },
   "keywords": [
     "gatsby"
